@@ -1,3 +1,3 @@
-# XStreamAdapter
+# Moved
 
-Cycle.js Diversity adapter for XStream
+Moved to https://github.com/cyclejs/cyclejs/tree/master/xstream-adapter
